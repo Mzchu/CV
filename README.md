@@ -1,5 +1,7 @@
 # A simple CV template online
 
+> [demo](https://mzchu.github.io/CV/)
+
 ## Usage
 1. clone this repo from <https://github.com/Mzchu/CV>.
 2. modify the **_config.yml** file.
