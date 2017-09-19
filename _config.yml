@@ -1,10 +1,10 @@
 # Site settings
-title:              the CV template
-author:             your name
-email:              you email
-description:        desc
+title:              CV of Guizhen Xie
+author:             Guizhen Xie
+email:              841655110@qq.com
+description:        Non solus
 keywords:           [kw1, kw2, kw3]
-url:                http://mageluer.coding.me/CV
+url:                https://mzchu.github.io
 
 # Jekyll
 markdown:           kramdown
@@ -29,31 +29,32 @@ info:
   address:         Wuhan University of Technology, Wuhan, China
   email:           guizxie@163.com
   tel:             +86-15717113212
-  web:             www.xxx.github.io
+  web:             https://mzchu.github.io
+  pdf:             upload/CV.pdf
 
 # Intro
 intro:
   display:         true
-  content:         stn to show sdf sdf libyaml-0.1.7-2.fc26.x86_64 YAML 1.1 parser and emitter written in
+  content:         Non solus.
 
 # Education
 education:
   - period:        Sep 2015 - present
     institute:     Wuhan University of Technology
     school:        Materials Physics at School of Materials Science and Engineering
-  - period:        Sep 2014 - Oct 2015
+  - period:        Sep 2014 - Jun 2015
     institute:     Wuhan University of Technology
     school:        Business Management at School of Management
 
 # Performance
 performance:
-  display:         true
+  display:         false
   gpa:             3.99
   rank:            1/1000
 
 # TOEFL & GRE
 stdtest:
-  display:         true
+  display:         false
   toefl:           120
   gre:             340
 
@@ -66,18 +67,12 @@ experience:
       -            Synthesis and properties analysis of Lithium Ion Batteries and SrMgF$_4$ 
       -            Study the formation mechanism of hexagonal ferrite Sr$_3$Co$_2$Fe$_{24}$O$_{41}$ pure phase
       -            Investigating the optimization of SrMgF$_4$ 
-  - period:        Sep 2015 - present
-    institute:     WHU
-    desc:          dss
-    project:
-      -            $a^2+b^c=c^2$ sfdlkj sf ljsdf lkjsf dds
-      -            slaj sdfl sdflj sdflkjsf dlkj sfdlkj sf ljsdf lkjsf dds
-      -            slaj sdfl sdflj sdflkjsf dlkj sfdlkj sf ljsdf lkjsf dds
 
 # Skills
 skill:
   display:        true 
-  software:       [Word, Excel, PowerPoint, EndNote, Origin, Jade, Highscore, Materials Studio ]
+  software:       [Word, Excel, PowerPoint, EndNote, Origin, Jade, Highscore, Materials Studio]
+  langdis:        false
   language:       [Ruby on Rails, ActionScript, C++]
 
 # Publications
@@ -106,15 +101,11 @@ patent:
 
 # Scholarships & Achievement
 scholarship:
-  - time:          unknown time
+  - time:          2015-09
     title:         The Third Prize Scholarship
-  - time:          2017-09-01
-    title:         hello world
 achievement:
-  - time:          unknown time
+  - time:          2016-12
     title:         The Second Prize (as the group leader) of Competition on Synthesis of Functional Materials
-  - time:          2017-09-01
-    title:         learn python the hard way
 
 # Activities
 activity:
