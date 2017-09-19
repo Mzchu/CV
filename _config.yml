@@ -23,7 +23,7 @@ mathjax:            true
 
 # Personal Info
 info:
-  avatar:          images/image.jpg
+  avatar:          images/avatar.jpg
   name:            Guizhen Xie
   description:     I'm a good student
   address:         Wuhan University of Technology, Wuhan, China
@@ -113,6 +113,6 @@ activity:
   hobby:          [soccer(Fullback), basketball(Guard), badminton, snooker pool, swimming(freestyle and backstroke), Chinese calligraphy, reading classic novels, photography]
   experience:
     -             Travelling footprints left over 10 provinces, over 100 railway tickets
-    -             co-managing a YHA with my friend in Lhasa, Tibet
+    -             Co-managing a YHA with my friend in Lhasa, Tibet
   
 
